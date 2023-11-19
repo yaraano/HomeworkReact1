@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.container {
+  max-width: 600px;
+  margin-top: 100px;
+}
+
+.img-box {
+  position: relative;
+  width: 100%;
+}
+
+.cart {
+  position: absolute;
+  top: -10px;
+  right: 0;
+  border: 1px solid rgb(128, 128, 128);
+  border-radius: 50%;
+}
+.stars {
+  margin-top: -3eqw0px;
+}
+
+.minitext {
+  color: rgb(128, 128, 128);
+  font-size: 14px;
+}
+
+.price {
+  font-size: 18px;
+}
+s {
+  color: gray;
+}
